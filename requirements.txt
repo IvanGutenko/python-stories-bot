@@ -1,0 +1,4 @@
+aiogram==3.10.0
+telethon==1.36.0
+python-socks==2.4.4
+aiofiles==24.1.0
